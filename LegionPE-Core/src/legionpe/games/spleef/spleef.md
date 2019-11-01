@@ -16,3 +16,4 @@ Things to do for spleef
   - [ ] per rank
   - [ ] shops
 - [x] change player gm
+- [X] Fak
